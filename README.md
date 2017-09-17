@@ -1,2 +1,2 @@
 # hello-world
-This program outputs hello world to the screen
+The associated program outputs hello world to the screen, oh yes it does
